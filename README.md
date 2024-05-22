@@ -12,6 +12,7 @@ During the course I'll discover:
  - Product development
  - Product analitics
  - AIRFLOW
+
 Also I'll complite some interim projects and final progect.
 
 
