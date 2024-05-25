@@ -3,7 +3,7 @@
 I've studed the karpov courses (https://karpov.courses/analytics) data analyst since April 2024
 
 During the course I'll discover:
- - Pyton
+ - Python
  - Git
  - SQL
  - Theory of probability
